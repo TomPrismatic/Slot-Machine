@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.26730.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "SlotMachiene", "SlotMachiene\SlotMachiene.vcxproj", "{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Debug|x64.ActiveCfg = Debug|x64
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Debug|x64.Build.0 = Debug|x64
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Debug|x86.ActiveCfg = Debug|Win32
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Debug|x86.Build.0 = Debug|Win32
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Release|x64.ActiveCfg = Release|x64
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Release|x64.Build.0 = Release|x64
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Release|x86.ActiveCfg = Release|Win32
+		{A084AF55-F4E3-40AF-8CA2-4C0743FB92F8}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {537944EE-75DF-472A-85A9-761E7CE4E674}
+	EndGlobalSection
+EndGlobal
